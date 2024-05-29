@@ -31,7 +31,7 @@ The code is structured into several functions, each responsible for a specific a
 
 ## How to Run
 
-To run the game, compile the C file using a C compiler and run the resulting executable. The game will prompt you to enter the dimensions of the board and the coordinates of your moves.
+To run the game, simply execute the provided binary file. The game will prompt you to enter the dimensions of the board and the coordinates of your moves.
 
 ## Disclaimer
 
