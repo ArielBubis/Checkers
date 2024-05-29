@@ -1,0 +1,11 @@
+void printBoard(char** board, int size){
+    int i,j;
+    char row = '0';
+    for(i=0;i<size;i++){
+        printf("\n%c ",row);
+        row++;
+        for(j=0;j<size;j++){
+            printf("[%c] ",board[i][j]);
+        }
+    }
+}
